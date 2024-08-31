@@ -1,0 +1,3 @@
+
+# ignore old files (they are old png files)
+*.old
