@@ -1,3 +1,5 @@
+#!python3
+
 import os
 
 # for every png file, if there is not a webp file, call convert on it, then move the source. to be .pold
